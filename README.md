@@ -44,4 +44,5 @@
 **[dortania](https://github.com/dortania/)** for [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)<br>
 **[acidanthera](https://github.com/acidanthera)** for [OpenCore](https://github.com/acidanthera/OpenCorePkg) and most of the kexts and drivers<br>
 **[USBToolBox](https://github.com/USBToolBox)** for [USBToolBox & UTBmap](https://github.com/USBToolBox/kext) kexts<br>
-**[ferxiit](https://github.com/ferxiit)** for inspiration how to write this ReadMe
+**[ferxiit](https://github.com/ferxiit)** for inspiration how to write this ReadMe<br>
+**[Hackintosh Discord](https://discord.gg/Wxam8aH)** awesome support from like-minded people!<br>
